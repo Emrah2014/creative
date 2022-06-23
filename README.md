@@ -1,6 +1,6 @@
 # creative
 This is a creative application for my workshop
-1 association
-2 perfect
-3 driver
-4 mystry
+1. Creator
+2. Emperor
+3. Amnicent
+4. Amnipotent
